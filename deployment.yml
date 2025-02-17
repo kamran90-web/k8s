@@ -1,9 +1,9 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: simple-deployments
+  name: complex-deployments
 spec:
-  replicas: 3
+  replicas: 4
   selector:
     matchLabels:
       app: complex-app
