@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   name: complex-deployments
 spec:
-  replicas: 2
+  replicas: 4
   selector:
     matchLabels:
       app: complex-app
