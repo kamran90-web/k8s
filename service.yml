@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: argocd-serverssssssssss
+  name: argocdssssssss-serverssssssssss
   namespace: argocd
 spec:
   ports:
